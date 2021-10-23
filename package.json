@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "ahmed",
   "license": "ISC",
-  "description": "udacity news NLP project",
+  "description": "",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
